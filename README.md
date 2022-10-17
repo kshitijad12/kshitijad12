@@ -44,7 +44,7 @@
 </p>
 <br>
 
-<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
+
 <br/><br/>
 <p display="flex" align="center">
 <a href="#"><img alt="kshitija's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijad12&hide=smalltalk&theme=algolia&layout=compact" width="400" /></a>
