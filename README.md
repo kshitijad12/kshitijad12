@@ -21,7 +21,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=kshitijad12&label=Profile%20views&color=0e75b6&style=flat" alt="falgunbokde23" /> </p>
 
 - 🔭 I’m currently Looking to contiribute to new projects 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about **Web | Travel**
 - 📫 How to reach me **kshitijadokarmare@gmail.com**
