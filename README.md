@@ -27,10 +27,6 @@
 - 📫 How to reach me **kshitijadokarmare@gmail.com**
 
 
-
-
-
-
 <br/>
 <br/>
 
@@ -52,6 +48,7 @@
 <p display="flex" align="center">
 <a href="#"><img alt="kshitija's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijad12&hide=smalltalk&theme=algolia&layout=compact" width="400" /></a>
 
+  
 
 
   <a href="https://github.com/kshitijad12?tab=repositories">
