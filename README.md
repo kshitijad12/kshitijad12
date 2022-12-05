@@ -34,10 +34,6 @@
 
 
 
-
-
-
-
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -64,3 +60,6 @@
   </a>
   </p>
  <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijad12&hide=smalltalk&theme=algolia&layout=compact" alt="kshitija dokarmare" /></a></div>
+  
+  
+  
