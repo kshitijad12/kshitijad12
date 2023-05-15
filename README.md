@@ -14,8 +14,8 @@
 <a href="linkedin.com/in/kshitija-dokarmare-93700b233/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="linkedin.com/in/kshitija-dokarmare-93700b233/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/kshitija-dokarmare-93700b233/" />
+<!-- <a href="linkedin.com/in/kshitija-dokarmare-93700b233/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/kshitija-dokarmare-93700b233/" /> -->
 </a>
 <br/>
 <br/>
