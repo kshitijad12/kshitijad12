@@ -11,8 +11,8 @@
 <a title="kshitijadokarmare786@gmail.com" href="mailto:kshitijadokarmare786@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="linkedin.com/in/kshitija-dokarmare-93700b233/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="linkedin.com/in/kshitija-dokarmare-93700b233/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ >
 </a>
 <!-- <a href="linkedin.com/in/kshitija-dokarmare-93700b233/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/kshitija-dokarmare-93700b233/" /> -->
