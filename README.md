@@ -14,7 +14,8 @@
 <a href="linkedin.com/in/kshitija-dokarmare-93700b233/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ >
 </a>
-
+<a href="https://www.linkedin.com/in/falgun-bokde-93108b189/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/falgun-bokde-93108b189/" />
 </a>
 <br/>
 <br/>
