@@ -41,11 +41,16 @@
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
+    <a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="120" height="35" /></a>
+    <a href="#"><img src="https://baffle.io/wp-content/uploads/2021/04/aws2.png" alt="aws" width="120" height="35"  /></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" width="120" height="35"  /></a>
+     <a href="#"><img src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg" alt="hibernate" width="120" height="35"  /></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-   
 </p>
+       
 <br>
 
 
